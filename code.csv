@@ -1,0 +1,54 @@
+country,country_code,continent
+United States,us,North America
+Argentina,ar,South America
+Australia,au,Australasia
+Austria,at,Europe
+Bahrain,bh,Middle East
+Belgium,be,Europe
+Brazil,br,South America
+Canada,ca,North America
+Chile,cl,South America
+China,cn,Asia
+Colombia,co,South America
+Czech Republic,cz,Europe
+Denmark,dk,Europe
+Finland,fi,Europe
+France,fr,Europe
+Germany,de,Europe
+Greece,gr,Europe
+Hong Kong,hk,Asia
+Hungary,hu,Europe
+India,in,Asia
+Indonesia,id,Asia
+Ireland,ie,Europe
+Israel,il,Middle East
+Italy,it,Europe
+Japan,jp,Asia
+Korea,kr,Asia
+Kuwait,kw,Middle East
+Luxembourg,lu,Europe
+Malaysia,my,Asia
+Mexico,mx,South America
+Netherlands,nl,Europe
+New Zealand,nz,Australasia
+Norway,no,Europe
+Oman,om,Middle East
+Pakistan,pk,Asia
+Peru,pe,South America
+Philippines,ph,Asia
+Poland,pl,Europe
+Portugal,pt,Europe
+Qatar,qa,Middle East
+Romania,ro,Europe
+Russia,ru,Europe
+Saudi Arabia,sa,Middle East
+Singapore,sg,Asia
+South Africa,za,Africa
+Spain,es,Europe
+Sweden,se,Europe
+Switzerland,ch,Europe
+Taiwan,tw,Asia
+Turkey,tr,Middle East
+United Arab Emirates,ae,Middle East
+United Kingdom,gb,Europe
+Venezuela,ve,South America
